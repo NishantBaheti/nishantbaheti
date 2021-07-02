@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=nishantbaheti)
 
-Check my projects I am proud of-
+Highlights -
 - [Machine Learning Exploration](https://nishantbaheti.github.io/machineLearningExploration/)
 - [Docker Exploration & Documentation](https://nishantbaheti.github.io/Docker-Exploration/)
 - [Graph Package](https://nishantbaheti.github.io/graphpkg/_build/html/)
