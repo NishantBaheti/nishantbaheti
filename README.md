@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=nishantbaheti)
 
 Highlights -
-- [Machine Learning Exploration](https://nishantbaheti.github.io/machineLearningExploration/)
+- [Machine Learning Exploration](https://machinelearningexploration.readthedocs.io)
 - [Docker Exploration & Documentation](https://nishantbaheti.github.io/Docker-Exploration/)
 - [Graph Package](https://nishantbaheti.github.io/graphpkg/_build/html/)
 - [Learning Python](https://nishantbaheti.github.io/LearningPython/)
