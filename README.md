@@ -5,11 +5,12 @@
 Highlights -
 - [Machine Learning Exploration](https://machinelearningexploration.readthedocs.io)
 - [Docker Exploration & Documentation](https://nishantbaheti.github.io/Docker-Exploration/)
-- [Graph Package](https://nishantbaheti.github.io/graphpkg/_build/html/)
-- [Learning Python](https://nishantbaheti.github.io/LearningPython/)
+- [Graph Package](https://graphpkg.readthedocs.io/)
+- [Learning Python](https://learningpython.readthedocs.io/)
 - [CatvsDog API](https://github.com/NishantBaheti/CatVsDogModelApi)
 - [CatvsDog Docker Image](https://hub.docker.com/r/nishantbaheti/catvsdog-ml-model-api) `New`
 - [Understanding Neural Networks](https://nishantbaheti.github.io/UnderstandingNN/index.html) `In progress` 
+- [mightypy](https://mightypy.readthedocs.io/)
 
 and please go through other repos as well.
 
