@@ -2,6 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=nishantbaheti)
 
+## Machine Learning
 - [Machine Learning Exploration](https://machinelearningexploration.readthedocs.io)
 - [Statistics](https://machinelearningexploration.readthedocs.io/en/latest/PracticalStatistics/Statistics.html)
 - [Sampling & Distributions](https://machinelearningexploration.readthedocs.io/en/latest/PracticalStatistics/Distributions.html)
@@ -11,25 +12,30 @@
 - [Bagging Method - Random Forest](https://machinelearningexploration.readthedocs.io/en/latest/EnsembleMethods/ExploreRandomForest.html)
 - [Boosting Methods](https://machinelearningexploration.readthedocs.io/en/latest/EnsembleMethods/ExploreBoosting.html)
 - [SVD & its applications](https://machinelearningexploration.readthedocs.io/en/latest/MathExploration/SingularValueDecomposition.html)
+
+## Data Processing
 - [Fourier Transform & its applications](https://machinelearningexploration.readthedocs.io/en/latest/MathExploration/Fourier.html)
 - [Audio Processing](https://machinelearningexploration.readthedocs.io/en/latest/MathExploration/AudioProcessing.html)
 
-
+## Deep Learning
 - [Understanding Neural Networks](https://nishantbaheti.github.io/UnderstandingNN/index.html)
+
+## NLx
 - [Natural Language Processing](https://nlpblog.readthedocs.io/en/latest/)
 
-
+## Additional Docs
 - [Docker Exploration & Documentation](https://nishantbaheti.github.io/Docker-Exploration/)
 - [Learning Python](https://learningpython.readthedocs.io/)
 
+## Python Packages
 - [Graph Package](https://graphpkg.readthedocs.io/)
 - [mightypy](https://mightypy.readthedocs.io/)
 
+## ML Projects
 - [CatvsDog API](https://github.com/NishantBaheti/CatVsDogModelApi)
 - [CatvsDog Docker Image](https://hub.docker.com/r/nishantbaheti/catvsdog-ml-model-api)
 
-
-
+## Contacts
 - [Linkedin](https://www.linkedin.com/in/nishantbaheti/)
 - [Instagram](https://www.instagram.com/_cranky_panda_/)
 
