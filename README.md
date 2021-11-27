@@ -2,10 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=nishantbaheti)
 
-## Machine Learning
+## Machine Learning, Statistics, etc.
 - [Machine Learning Exploration](https://machinelearningexploration.readthedocs.io)
 - [Statistics](https://machinelearningexploration.readthedocs.io/en/latest/PracticalStatistics/Statistics.html)
 - [Sampling & Distributions](https://machinelearningexploration.readthedocs.io/en/latest/PracticalStatistics/Distributions.html)
+- [Experiment & Testing](https://machinelearningexploration.readthedocs.io/en/latest/PracticalStatistics/Hypothesis.html#Experiments-&-Testing)
 - [Linear, Ridge & Lasso Regression](https://machinelearningexploration.readthedocs.io/en/latest/LinearRegression/Explore.html)
 - [Logistic Regression](https://machinelearningexploration.readthedocs.io/en/latest/LogisticRegression/Explore.html)
 - [Decision Tree](https://machinelearningexploration.readthedocs.io/en/latest/TreeBasedModels/ExploreDecisionTree.html)
