@@ -19,7 +19,7 @@
 - [Audio Processing](https://machinelearningexploration.readthedocs.io/en/latest/MathExploration/AudioProcessing.html)
 
 ## Deep Learning
-- [Understanding Neural Networks](https://nishantbaheti.github.io/UnderstandingNN/index.html)
+- [Understanding Neural Networks](https://understandnn.readthedocs.io/)
 
 ## NLx
 - [Natural Language Processing](https://nlpblog.readthedocs.io/en/latest/)
