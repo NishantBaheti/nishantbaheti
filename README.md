@@ -24,6 +24,9 @@
 ## NLx
 - [Natural Language Processing](https://nlpblog.readthedocs.io/en/latest/)
 
+## Recommendation Systems
+- [Recommendation Systems Doc](https://recommendation-systems.readthedocs.io/)
+
 ## Additional Docs
 - [Docker Exploration & Documentation](https://nishantbaheti.github.io/Docker-Exploration/)
 - [Learning Python](https://learningpython.readthedocs.io/)
@@ -32,7 +35,7 @@
 - [Graph Package](https://graphpkg.readthedocs.io/)
 - [mightypy](https://mightypy.readthedocs.io/)
 
-## ML Projects
+## ML E2E Projects
 - [CatvsDog API](https://github.com/NishantBaheti/CatVsDogModelApi)
 - [CatvsDog Docker Image](https://hub.docker.com/r/nishantbaheti/catvsdog-ml-model-api)
 
