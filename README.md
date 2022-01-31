@@ -25,7 +25,6 @@
 ## NLx
 - [Natural Language Processing](https://nlpblog.readthedocs.io/en/latest/) [![Documentation Status](https://readthedocs.org/projects/nlpblog/badge/?version=latest)](https://nlpblog.readthedocs.io/en/latest/?badge=latest)
 
-
 ## Recommendation Systems
 - [Recommendation Systems Doc](https://recommendation-systems.readthedocs.io/) [![Documentation Status](https://readthedocs.org/projects/recommendation-systems/badge/?version=latest)](https://recommendation-systems.readthedocs.io/en/latest/?badge=latest)
 
@@ -34,6 +33,7 @@
 - [mightypy](https://mightypy.readthedocs.io/) [![Documentation Status](https://readthedocs.org/projects/mightypy/badge/?version=latest)](https://mightypy.readthedocs.io/en/latest/?badge=latest)
 
 ## ML E2E Projects
+- [CatVsDog Data Analysis & Model Building](https://github.com/NishantBaheti/ConvolutionalNeuralNetwork)
 - [CatvsDog API](https://github.com/NishantBaheti/CatVsDogModelApi)
 - [CatvsDog Docker Image](https://hub.docker.com/r/nishantbaheti/catvsdog-ml-model-api) [![Docker Image CI](https://github.com/NishantBaheti/CatVsDogModelApi/actions/workflows/docker-image.yml/badge.svg)](https://github.com/NishantBaheti/CatVsDogModelApi/actions/workflows/docker-image.yml)
 
