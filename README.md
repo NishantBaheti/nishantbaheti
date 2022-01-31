@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=nishantbaheti)
 
 ## Machine Learning, Statistics, etc.
-- [Machine Learning Exploration](https://machinelearningexploration.readthedocs.io)
+- [Machine Learning Exploration](https://machinelearningexploration.readthedocs.io) [![Documentation Status](https://readthedocs.org/projects/machinelearningexploration/badge/?version=latest)](https://machinelearningexploration.readthedocs.io/en/latest/?badge=latest)
 - [Statistics](https://machinelearningexploration.readthedocs.io/en/latest/PracticalStatistics/Statistics.html)
 - [Sampling & Distributions](https://machinelearningexploration.readthedocs.io/en/latest/PracticalStatistics/Distributions.html)
 - [Experiment & Testing](https://machinelearningexploration.readthedocs.io/en/latest/PracticalStatistics/Hypothesis.html#Experiments-&-Testing)
