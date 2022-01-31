@@ -19,25 +19,27 @@
 - [Audio Processing](https://machinelearningexploration.readthedocs.io/en/latest/MathExploration/AudioProcessing.html)
 
 ## Deep Learning
-- [Understanding Neural Networks](https://understandnn.readthedocs.io/)
+- [Understanding Neural Networks](https://understandnn.readthedocs.io/) [![Documentation Status](https://readthedocs.org/projects/understandnn/badge/?version=latest)](https://understandnn.readthedocs.io/en/latest/?badge=latest)
+
 
 ## NLx
-- [Natural Language Processing](https://nlpblog.readthedocs.io/en/latest/)
+- [Natural Language Processing](https://nlpblog.readthedocs.io/en/latest/) [![Documentation Status](https://readthedocs.org/projects/nlpblog/badge/?version=latest)](https://nlpblog.readthedocs.io/en/latest/?badge=latest)
+
 
 ## Recommendation Systems
-- [Recommendation Systems Doc](https://recommendation-systems.readthedocs.io/)
-
-## Additional Docs
-- [Docker Exploration & Documentation](https://nishantbaheti.github.io/Docker-Exploration/)
-- [Learning Python](https://learningpython.readthedocs.io/)
+- [Recommendation Systems Doc](https://recommendation-systems.readthedocs.io/) [![Documentation Status](https://readthedocs.org/projects/recommendation-systems/badge/?version=latest)](https://recommendation-systems.readthedocs.io/en/latest/?badge=latest)
 
 ## Python Packages
-- [Graph Package](https://graphpkg.readthedocs.io/)
-- [mightypy](https://mightypy.readthedocs.io/)
+- [Graph Package](https://graphpkg.readthedocs.io/) [![Documentation Status](https://readthedocs.org/projects/graphpkg/badge/?version=latest)](https://graphpkg.readthedocs.io/en/latest/?badge=latest)
+- [mightypy](https://mightypy.readthedocs.io/) [![Documentation Status](https://readthedocs.org/projects/mightypy/badge/?version=latest)](https://mightypy.readthedocs.io/en/latest/?badge=latest)
 
 ## ML E2E Projects
 - [CatvsDog API](https://github.com/NishantBaheti/CatVsDogModelApi)
-- [CatvsDog Docker Image](https://hub.docker.com/r/nishantbaheti/catvsdog-ml-model-api)
+- [CatvsDog Docker Image](https://hub.docker.com/r/nishantbaheti/catvsdog-ml-model-api) [![Docker Image CI](https://github.com/NishantBaheti/CatVsDogModelApi/actions/workflows/docker-image.yml/badge.svg)](https://github.com/NishantBaheti/CatVsDogModelApi/actions/workflows/docker-image.yml)
+
+## Additional Docs
+- [Docker Exploration & Documentation](https://nishantbaheti.github.io/Docker-Exploration/) [![Documentation Status](https://readthedocs.org/projects/docker-exploration/badge/?version=latest)](https://docker-exploration.readthedocs.io/en/latest/?badge=latest)
+- [Learning Python](https://learningpython.readthedocs.io/)[![Documentation Status](https://readthedocs.org/projects/learningpython/badge/?version=latest)](https://learningpython.readthedocs.io/en/latest/?badge=latest)
 
 ## Contacts
 - [Linkedin](https://www.linkedin.com/in/nishantbaheti/)
