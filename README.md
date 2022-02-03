@@ -5,7 +5,7 @@
 ## Machine Learning, Statistics, etc.
 - [Machine Learning Exploration](https://machinelearningexploration.readthedocs.io) [![Documentation Status](https://readthedocs.org/projects/machinelearningexploration/badge/?version=latest)](https://machinelearningexploration.readthedocs.io/en/latest/?badge=latest)
 - [Statistics](https://machinelearningexploration.readthedocs.io/en/latest/PracticalStatistics/Statistics.html)
-- [Statisitcal Sampling](https://machinelearningexploration.readthedocs.io/en/latest/PracticalStatistics/Sampling.html)
+- [Statistical Sampling](https://machinelearningexploration.readthedocs.io/en/latest/PracticalStatistics/Sampling.html)
 - [Distributions](https://machinelearningexploration.readthedocs.io/en/latest/PracticalStatistics/Distributions.html)
 - [Experiment & Testing](https://machinelearningexploration.readthedocs.io/en/latest/PracticalStatistics/Hypothesis.html#Experiments-&-Testing)
 - [Linear, Ridge & Lasso Regression](https://machinelearningexploration.readthedocs.io/en/latest/LinearRegression/Explore.html)
