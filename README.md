@@ -2,9 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=nishantbaheti)
 
-[![Nishant's github stats](https://github-readme-stats.vercel.app/api?username=nishantbaheti)](https://github.com/nishantbaheti)
+|||
+|-|-|
+| [![Nishant's github stats](https://github-readme-stats.vercel.app/api?username=nishantbaheti)](https://github.com/nishantbaheti) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantbaheti&layout=compact)](https://github.com/nishantbaheti) |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantbaheti)](https://github.com/nishantbaheti)
 
 ## Machine Learning, Statistics, etc.
 - [Machine Learning Exploration](https://machinelearningexploration.readthedocs.io) [![Documentation Status](https://readthedocs.org/projects/machinelearningexploration/badge/?version=latest)](https://machinelearningexploration.readthedocs.io/en/latest/?badge=latest)
