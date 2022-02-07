@@ -45,6 +45,7 @@
 - [CatvsDog Docker Image](https://hub.docker.com/r/nishantbaheti/catvsdog-ml-model-api) [![Docker Image CI](https://github.com/NishantBaheti/CatVsDogModelApi/actions/workflows/docker-image.yml/badge.svg)](https://github.com/NishantBaheti/CatVsDogModelApi/actions/workflows/docker-image.yml)
 
 ## Additional Docs
+- [Tableau Vizzes](https://public.tableau.com/app/profile/nishant.baheti)
 - [Docker Exploration & Documentation](https://nishantbaheti.github.io/Docker-Exploration/) [![Documentation Status](https://readthedocs.org/projects/docker-exploration/badge/?version=latest)](https://docker-exploration.readthedocs.io/en/latest/?badge=latest)
 - [Learning Python](https://learningpython.readthedocs.io/)[![Documentation Status](https://readthedocs.org/projects/learningpython/badge/?version=latest)](https://learningpython.readthedocs.io/en/latest/?badge=latest)
 
