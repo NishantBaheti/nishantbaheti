@@ -41,7 +41,8 @@
 
 ## ML E2E Projects
 - [CatVsDog Data Analysis & Model Building](https://github.com/NishantBaheti/ConvolutionalNeuralNetwork)
-- [CatvsDog API](https://github.com/NishantBaheti/CatVsDogModelApi)
+- [CatvsDog API](https://github.com/NishantBaheti/CatVsDogModelApi) | [api link](https://catordogpython.herokuapp.com/)
+- [CatvsDog APP UI](https://peaceful-hugle-bd2f1d.netlify.app/)
 - [CatvsDog Docker Image](https://hub.docker.com/r/nishantbaheti/catvsdog-ml-model-api) [![Docker Image CI](https://github.com/NishantBaheti/CatVsDogModelApi/actions/workflows/docker-image.yml/badge.svg)](https://github.com/NishantBaheti/CatVsDogModelApi/actions/workflows/docker-image.yml)
 
 ## Additional Docs
