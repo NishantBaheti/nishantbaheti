@@ -20,6 +20,11 @@
 - [Boosting Methods](https://machinelearningexploration.readthedocs.io/en/latest/EnsembleMethods/ExploreBoosting.html)
 - [SVD & its applications](https://machinelearningexploration.readthedocs.io/en/latest/MathExploration/SingularValueDecomposition.html)
 
+## Recommendation Systems
+- [Recommendation Systems Doc](https://recommendation-systems.readthedocs.io/) [![Documentation Status](https://readthedocs.org/projects/recommendation-systems/badge/?version=latest)](https://recommendation-systems.readthedocs.io/en/latest/?badge=latest)
+- [Collaborative Filtering Method](https://recommendation-systems.readthedocs.io/en/latest/notebooks/cf_item_item.html)
+- [Content Based](https://recommendation-systems.readthedocs.io/en/latest/notebooks/content_based_filtering.html)
+
 ## Data Processing
 - [Convolution](https://machinelearningexploration.readthedocs.io/en/latest/MathExploration/Convolution.html)
 - [Feature Scaling Techniques](https://machinelearningexploration.readthedocs.io/en/latest/DataPreprocessing/techniques.html)
@@ -31,11 +36,6 @@
 
 ## NLx
 - [Natural Language Processing](https://nlpblog.readthedocs.io/en/latest/) [![Documentation Status](https://readthedocs.org/projects/nlpblog/badge/?version=latest)](https://nlpblog.readthedocs.io/en/latest/?badge=latest)
-
-## Recommendation Systems
-- [Recommendation Systems Doc](https://recommendation-systems.readthedocs.io/) [![Documentation Status](https://readthedocs.org/projects/recommendation-systems/badge/?version=latest)](https://recommendation-systems.readthedocs.io/en/latest/?badge=latest)
-- [Collaborative Filtering Method](https://recommendation-systems.readthedocs.io/en/latest/notebooks/cf_item_item.html)
-- [Content Based](https://recommendation-systems.readthedocs.io/en/latest/notebooks/content_based_filtering.html)
 
 ## Python Packages
 - [Graph Package](https://graphpkg.readthedocs.io/) [![Documentation Status](https://readthedocs.org/projects/graphpkg/badge/?version=latest)](https://graphpkg.readthedocs.io/en/latest/?badge=latest)
