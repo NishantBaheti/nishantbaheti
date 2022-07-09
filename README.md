@@ -24,6 +24,7 @@
 - [Recommendation Systems Doc](https://recommendation-systems.readthedocs.io/) [![Documentation Status](https://readthedocs.org/projects/recommendation-systems/badge/?version=latest)](https://recommendation-systems.readthedocs.io/en/latest/?badge=latest)
 - [Collaborative Filtering Method](https://recommendation-systems.readthedocs.io/en/latest/notebooks/cf_item_item.html)
 - [Basic Content Based](https://recommendation-systems.readthedocs.io/en/latest/notebooks/basic_content_based.html)
+- [Alternating Least Squares](https://recommendation-systems.readthedocs.io/en/latest/notebooks/als.html)
 
 ## Data Processing
 - [Convolution](https://machinelearningexploration.readthedocs.io/en/latest/MathExploration/Convolution.html)
