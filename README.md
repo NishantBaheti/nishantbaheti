@@ -7,8 +7,8 @@
 | [![Nishant's github stats](https://github-readme-stats.vercel.app/api?username=nishantbaheti)](https://github.com/nishantbaheti) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantbaheti&layout=compact)](https://github.com/nishantbaheti) | -->
 
 
-## Machine Learning, Statistics, etc.
-- [Machine Learning Exploration](https://machinelearningexploration.readthedocs.io) [![Documentation Status](https://readthedocs.org/projects/machinelearningexploration/badge/?version=latest)](https://machinelearningexploration.readthedocs.io/en/latest/?badge=latest)
+## Machine Learning & Data Science [![Documentation Status](https://readthedocs.org/projects/machinelearningexploration/badge/?version=latest)](https://machinelearningexploration.readthedocs.io/en/latest/?badge=latest)
+- [Machine Learning Exploration](https://machinelearningexploration.readthedocs.io)
 - [Statistics](https://machinelearningexploration.readthedocs.io/en/latest/PracticalStatistics/Statistics.html)
 - [Statistical Sampling](https://machinelearningexploration.readthedocs.io/en/latest/PracticalStatistics/Sampling.html)
 - [Probabiliy & Distributions](https://machinelearningexploration.readthedocs.io/en/latest/PracticalStatistics/Distributions.html)
@@ -20,8 +20,8 @@
 - [Boosting Methods](https://machinelearningexploration.readthedocs.io/en/latest/EnsembleMethods/ExploreBoosting.html)
 - [SVD & its applications](https://machinelearningexploration.readthedocs.io/en/latest/MathExploration/SingularValueDecomposition.html)
 
-## Recommendation Systems
-- [Recommendation Systems Doc](https://recommendation-systems.readthedocs.io/) [![Documentation Status](https://readthedocs.org/projects/recommendation-systems/badge/?version=latest)](https://recommendation-systems.readthedocs.io/en/latest/?badge=latest)
+## Recommendation Systems [![Documentation Status](https://readthedocs.org/projects/recommendation-systems/badge/?version=latest)](https://recommendation-systems.readthedocs.io/en/latest/?badge=latest)
+- [Recommendation Systems Doc](https://recommendation-systems.readthedocs.io/)
 - [Collaborative Filtering Method](https://recommendation-systems.readthedocs.io/en/latest/notebooks/cf_item_item.html)
 - [Basic Content Based](https://recommendation-systems.readthedocs.io/en/latest/notebooks/basic_content_based.html)
 - [Alternating Least Squares](https://recommendation-systems.readthedocs.io/en/latest/notebooks/als.html)
@@ -32,8 +32,8 @@
 - [Fourier Transform & its applications](https://machinelearningexploration.readthedocs.io/en/latest/MathExploration/Fourier.html)
 - [Audio Processing](https://machinelearningexploration.readthedocs.io/en/latest/MathExploration/AudioProcessing.html)
 
-## Deep Learning
-- [Understanding Neural Networks](https://understandnn.readthedocs.io/) [![Documentation Status](https://readthedocs.org/projects/understandnn/badge/?version=latest)](https://understandnn.readthedocs.io/en/latest/?badge=latest)
+## Deep Learning [![Documentation Status](https://readthedocs.org/projects/understandnn/badge/?version=latest)](https://understandnn.readthedocs.io/en/latest/?badge=latest)
+- [Understanding Neural Networks](https://understandnn.readthedocs.io/) 
 
 ## NLx
 - [Natural Language Processing](https://nlpblog.readthedocs.io/en/latest/) [![Documentation Status](https://readthedocs.org/projects/nlpblog/badge/?version=latest)](https://nlpblog.readthedocs.io/en/latest/?badge=latest)
