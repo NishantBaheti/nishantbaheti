@@ -44,7 +44,7 @@
 
 ## ML E2E Projects
 
-This project is not about the idea, it is about the innovation.
+This project is not about the idea, it is about the implementation.
   - [CatVsDog Data Analysis & Model Building](https://github.com/NishantBaheti/ConvolutionalNeuralNetwork)
   - [CatvsDog API](https://github.com/NishantBaheti/CatVsDogModelApi) | [api link](https://catordogpython.herokuapp.com/)
   - [CatvsDog APP UI](https://peaceful-hugle-bd2f1d.netlify.app/)
