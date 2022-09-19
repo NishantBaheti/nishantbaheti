@@ -13,6 +13,8 @@
 - [Statistical Sampling](https://machinelearningexploration.readthedocs.io/en/latest/PracticalStatistics/Sampling.html)
 - [Probabiliy & Distributions](https://machinelearningexploration.readthedocs.io/en/latest/PracticalStatistics/Distributions.html)
 - [Experiment & Testing](https://machinelearningexploration.readthedocs.io/en/latest/PracticalStatistics/Hypothesis.html#Experiments-&-Testing)
+- [Perceptron](https://machinelearningexploration.readthedocs.io/en/latest/perceptron/explore.html)
+- [Nearest Neighbors](https://machinelearningexploration.readthedocs.io/en/latest/NearestNeighbors/explore.html)
 - [Linear, Ridge & Lasso Regression](https://machinelearningexploration.readthedocs.io/en/latest/LinearRegression/Explore.html)
 - [Logistic Regression](https://machinelearningexploration.readthedocs.io/en/latest/LogisticRegression/Explore.html)
 - [Decision Tree](https://machinelearningexploration.readthedocs.io/en/latest/TreeBasedModels/ExploreDecisionTree.html)
