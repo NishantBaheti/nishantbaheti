@@ -4,23 +4,26 @@
 
 <!-- |||
 |-|-|
-| [![Nishant's github stats](https://github-readme-stats.vercel.app/api?username=nishantbaheti)](https://github.com/nishantbaheti) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantbaheti&layout=compact)](https://github.com/nishantbaheti) | -->
+| [![Nishant's github stats](https://github-readme-stats.vercel.app/api?username=nishantbaheti)](https://github.com/nishantbaheti) | | -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantbaheti&layout=compact)](https://github.com/nishantbaheti) 
 
 
 ## Machine Learning & Data Science [![Documentation Status](https://readthedocs.org/projects/machinelearningexploration/badge/?version=latest)](https://machinelearningexploration.readthedocs.io/en/latest/?badge=latest)
-- [Machine Learning Exploration](https://machinelearningexploration.readthedocs.io)
-- [Statistics](https://machinelearningexploration.readthedocs.io/en/latest/PracticalStatistics/Statistics.html)
-- [Statistical Sampling](https://machinelearningexploration.readthedocs.io/en/latest/PracticalStatistics/Sampling.html)
-- [Probabiliy & Distributions](https://machinelearningexploration.readthedocs.io/en/latest/PracticalStatistics/Distributions.html)
-- [Experiment & Testing](https://machinelearningexploration.readthedocs.io/en/latest/PracticalStatistics/Hypothesis.html#Experiments-&-Testing)
-- [Perceptron](https://machinelearningexploration.readthedocs.io/en/latest/perceptron/explore.html)
-- [Nearest Neighbors](https://machinelearningexploration.readthedocs.io/en/latest/NearestNeighbors/explore.html)
-- [Linear, Ridge & Lasso Regression](https://machinelearningexploration.readthedocs.io/en/latest/LinearRegression/Explore.html)
-- [Logistic Regression](https://machinelearningexploration.readthedocs.io/en/latest/LogisticRegression/Explore.html)
-- [Decision Tree](https://machinelearningexploration.readthedocs.io/en/latest/TreeBasedModels/ExploreDecisionTree.html)
-- [Bagging Method - Random Forest](https://machinelearningexploration.readthedocs.io/en/latest/EnsembleMethods/ExploreRandomForest.html)
-- [Boosting Methods](https://machinelearningexploration.readthedocs.io/en/latest/EnsembleMethods/ExploreBoosting.html)
-- [SVD & its applications](https://machinelearningexploration.readthedocs.io/en/latest/MathExploration/SingularValueDecomposition.html)
+- [Machine Learning Exploration](https://mlguidebook.com)
+- [Statistics](https://mlguidebook.com/en/latest/PracticalStatistics/Statistics.html)
+- [Statistical Sampling](https://mlguidebook.com/en/latest/PracticalStatistics/Sampling.html)
+- [Probabiliy & Distributions](https://mlguidebook.com/en/latest/PracticalStatistics/Distributions.html)
+- [Experiment & Testing](https://mlguidebook.com/en/latest/PracticalStatistics/Hypothesis.html#Experiments-&-Testing)
+- [Perceptron](https://mlguidebook.com/en/latest/perceptron/explore.html)
+- [Nearest Neighbors](https://mlguidebook.com/en/latest/NearestNeighbors/explore.html)
+- [Linear, Ridge & Lasso Regression](https://mlguidebook.com/en/latest/LinearRegression/Explore.html)
+- [Logistic Regression](https://mlguidebook.com/en/latest/LogisticRegression/Explore.html)
+- [Decision Tree](https://mlguidebook.com/en/latest/TreeBasedModels/ExploreDecisionTree.html)
+- [Bagging Method - Random Forest](https://mlguidebook.com/en/latest/EnsembleMethods/ExploreRandomForest.html)
+- [Boosting Methods](https://mlguidebook.com/en/latest/EnsembleMethods/ExploreBoosting.html)
+- [SVD & its applications](https://mlguidebook.com/en/latest/MathExploration/SingularValueDecomposition.html)
+- [Support Vector Machine](https://mlguidebook.com/en/latest/SupportVectorMachine/Explore.html)
 
 ## Recommendation Systems [![Documentation Status](https://readthedocs.org/projects/recommendation-systems/badge/?version=latest)](https://recommendation-systems.readthedocs.io/en/latest/?badge=latest)
 - [Recommendation Systems Doc](https://recommendation-systems.readthedocs.io/)
@@ -28,11 +31,11 @@
 - [Basic Content Based](https://recommendation-systems.readthedocs.io/en/latest/notebooks/basic_content_based.html)
 - [Alternating Least Squares](https://recommendation-systems.readthedocs.io/en/latest/notebooks/als.html)
 
-## Data Processing
-- [Convolution](https://machinelearningexploration.readthedocs.io/en/latest/MathExploration/Convolution.html)
-- [Feature Scaling Techniques](https://machinelearningexploration.readthedocs.io/en/latest/DataPreprocessing/techniques.html)
-- [Fourier Transform & its applications](https://machinelearningexploration.readthedocs.io/en/latest/MathExploration/Fourier.html)
-- [Audio Processing](https://machinelearningexploration.readthedocs.io/en/latest/MathExploration/AudioProcessing.html)
+<!-- ## Data Processing
+- [Convolution](https://mlguidebook.com/en/latest/MathExploration/Convolution.html)
+- [Feature Scaling Techniques](https://mlguidebook.com/en/latest/DataPreprocessing/techniques.html)
+- [Fourier Transform & its applications](https://mlguidebook.com/en/latest/MathExploration/Fourier.html)
+- [Audio Processing](https://mlguidebook.com/en/latest/MathExploration/AudioProcessing.html) -->
 
 ## Deep Learning [![Documentation Status](https://readthedocs.org/projects/understandnn/badge/?version=latest)](https://understandnn.readthedocs.io/en/latest/?badge=latest)
 - [Understanding Neural Networks](https://understandnn.readthedocs.io/) 
