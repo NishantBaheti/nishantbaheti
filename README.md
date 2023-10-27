@@ -10,11 +10,8 @@
 
 
 ## Machine Learning & Data Science [![Documentation Status](https://readthedocs.org/projects/machinelearningexploration/badge/?version=latest)](https://machinelearningexploration.readthedocs.io/en/latest/?badge=latest)
-- [Machine Learning Exploration](https://mlguidebook.com)
-- [Statistics](https://mlguidebook.com/en/latest/PracticalStatistics/Statistics.html)
-- [Statistical Sampling](https://mlguidebook.com/en/latest/PracticalStatistics/Sampling.html)
-- [Probabiliy & Distributions](https://mlguidebook.com/en/latest/PracticalStatistics/Distributions.html)
-- [Experiment & Testing](https://mlguidebook.com/en/latest/PracticalStatistics/Hypothesis.html#Experiments-&-Testing)
+
+- [Machine Learning Guide Book](https://mlguidebook.com)
 - [Perceptron](https://mlguidebook.com/en/latest/perceptron/explore.html)
 - [Nearest Neighbors](https://mlguidebook.com/en/latest/NearestNeighbors/explore.html)
 - [Linear, Ridge & Lasso Regression](https://mlguidebook.com/en/latest/LinearRegression/Explore.html)
@@ -24,8 +21,13 @@
 - [Boosting Methods](https://mlguidebook.com/en/latest/EnsembleMethods/ExploreBoosting.html)
 - [SVD & its applications](https://mlguidebook.com/en/latest/MathExploration/SingularValueDecomposition.html)
 - [Support Vector Machine](https://mlguidebook.com/en/latest/SupportVectorMachine/Explore.html)
+- [Statistics](https://mlguidebook.com/en/latest/PracticalStatistics/Statistics.html)
+- [Statistical Sampling](https://mlguidebook.com/en/latest/PracticalStatistics/Sampling.html)
+- [Probabiliy & Distributions](https://mlguidebook.com/en/latest/PracticalStatistics/Distributions.html)
+- [Experiment & Testing](https://mlguidebook.com/en/latest/PracticalStatistics/Hypothesis.html#Experiments-&-Testing)
 
 ## Recommendation Systems [![Documentation Status](https://readthedocs.org/projects/recommendation-systems/badge/?version=latest)](https://recommendation-systems.readthedocs.io/en/latest/?badge=latest)
+
 - [Recommendation Systems Doc](https://recommendation-systems.readthedocs.io/)
 - [Collaborative Filtering Method](https://recommendation-systems.readthedocs.io/en/latest/notebooks/cf_item_item.html)
 - [Basic Content Based](https://recommendation-systems.readthedocs.io/en/latest/notebooks/basic_content_based.html)
