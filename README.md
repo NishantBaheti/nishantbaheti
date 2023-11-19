@@ -26,12 +26,12 @@
 - [Probabiliy & Distributions](https://mlguidebook.com/en/latest/PracticalStatistics/Distributions.html)
 - [Experiment & Testing](https://mlguidebook.com/en/latest/PracticalStatistics/Hypothesis.html#Experiments-&-Testing)
 
-## Recommendation Systems [![Documentation Status](https://readthedocs.org/projects/recommendation-systems/badge/?version=latest)](https://recommendation-systems.readthedocs.io/en/latest/?badge=latest)
+## Recommendation Systems [![Documentation Status](https://readthedocs.org/projects/recommendation-systems/badge/?version=latest)](https://reco.mlguidebook.com/en/latest/?badge=latest)
 
-- [Recommendation Systems Doc](https://recommendation-systems.readthedocs.io/)
-- [Collaborative Filtering Method](https://recommendation-systems.readthedocs.io/en/latest/notebooks/cf_item_item.html)
-- [Basic Content Based](https://recommendation-systems.readthedocs.io/en/latest/notebooks/basic_content_based.html)
-- [Alternating Least Squares](https://recommendation-systems.readthedocs.io/en/latest/notebooks/als.html)
+- [Recommendation Systems Doc](https://reco.mlguidebook.com/)
+- [Collaborative Filtering Method](https://reco.mlguidebook.com/en/latest/notebooks/cf_item_item.html)
+- [Basic Content Based](https://reco.mlguidebook.com/en/latest/notebooks/basic_content_based.html)
+- [Alternating Least Squares](https://reco.mlguidebook.com/en/latest/notebooks/als.html)
 
 <!-- ## Data Processing
 - [Convolution](https://mlguidebook.com/en/latest/MathExploration/Convolution.html)
@@ -39,11 +39,11 @@
 - [Fourier Transform & its applications](https://mlguidebook.com/en/latest/MathExploration/Fourier.html)
 - [Audio Processing](https://mlguidebook.com/en/latest/MathExploration/AudioProcessing.html) -->
 
-## Deep Learning [![Documentation Status](https://readthedocs.org/projects/understandnn/badge/?version=latest)](https://understandnn.readthedocs.io/en/latest/?badge=latest)
-- [Understanding Neural Networks](https://understandnn.readthedocs.io/) 
+## Deep Learning [![Documentation Status](https://readthedocs.org/projects/understandnn/badge/?version=latest)](https://dl.mlguidebook.com/en/latest/?badge=latest)
+- [Understanding Neural Networks](https://dl.mlguidebook.com/) 
 
 ## NLx
-- [Natural Language Processing](https://nlpblog.readthedocs.io/en/latest/) [![Documentation Status](https://readthedocs.org/projects/nlpblog/badge/?version=latest)](https://nlpblog.readthedocs.io/en/latest/?badge=latest)
+- [Natural Language Processing](https://nlp.mlguidebook.com/en/latest/) [![Documentation Status](https://readthedocs.org/projects/nlpblog/badge/?version=latest)](https://nlp.mlguidebook.com/en/latest/?badge=latest)
 
 ## Python Packages
 - [Graph Package](https://graphpkg.readthedocs.io/) [![Documentation Status](https://readthedocs.org/projects/graphpkg/badge/?version=latest)](https://graphpkg.readthedocs.io/en/latest/?badge=latest)
