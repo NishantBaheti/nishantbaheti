@@ -9,9 +9,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantbaheti&layout=compact)](https://github.com/nishantbaheti) 
 
 
-## Machine Learning & Data Science [![Documentation Status](https://readthedocs.org/projects/machinelearningexploration/badge/?version=latest)](https://machinelearningexploration.readthedocs.io/en/latest/?badge=latest)
+## [ML Guide Book](https://mlguidebook.com) [![Documentation Status](https://readthedocs.org/projects/machinelearningexploration/badge/?version=latest)](https://machinelearningexploration.readthedocs.io/en/latest/?badge=latest)
 
-- [Machine Learning Guide Book](https://mlguidebook.com)
 - [Perceptron](https://mlguidebook.com/en/latest/perceptron/explore.html)
 - [Nearest Neighbors](https://mlguidebook.com/en/latest/NearestNeighbors/explore.html)
 - [Linear, Ridge & Lasso Regression](https://mlguidebook.com/en/latest/LinearRegression/Explore.html)
@@ -23,8 +22,8 @@
 - [Support Vector Machine](https://mlguidebook.com/en/latest/SupportVectorMachine/Explore.html)
 - [Statistics](https://mlguidebook.com/en/latest/PracticalStatistics/Statistics.html)
 - [Statistical Sampling](https://mlguidebook.com/en/latest/PracticalStatistics/Sampling.html)
-- [Probabiliy & Distributions](https://mlguidebook.com/en/latest/PracticalStatistics/Distributions.html)
-- [Experiment & Testing](https://mlguidebook.com/en/latest/PracticalStatistics/Hypothesis.html#Experiments-&-Testing)
+- [Probabiliy Distributions](https://mlguidebook.com/en/latest/Probability/Distributions.html)
+- [Experiment & Testing](https://mlguidebook.com/en/latest/PracticalStatistics/Hypothesis.html)
 
 ## Recommendation Systems [![Documentation Status](https://readthedocs.org/projects/recommendation-systems/badge/?version=latest)](https://reco.mlguidebook.com/en/latest/?badge=latest)
 
@@ -64,4 +63,3 @@ This project is not about the idea, it is about the implementation.
 
 ## Contacts
 - [Linkedin](https://www.linkedin.com/in/nishantbaheti/)
-- [Instagram](https://www.instagram.com/_cranky_panda_/)
