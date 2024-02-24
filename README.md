@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=nishantbaheti)
 
+Data Scientist | Machine Learning Engineer
+
 <!-- |||
 |-|-|
 | [![Nishant's github stats](https://github-readme-stats.vercel.app/api?username=nishantbaheti)](https://github.com/nishantbaheti) | | -->
