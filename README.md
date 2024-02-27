@@ -43,25 +43,23 @@ Data Scientist | Machine Learning Engineer
 ## Deep Learning [![Documentation Status](https://readthedocs.org/projects/understandnn/badge/?version=latest)](https://dl.mlguidebook.com/en/latest/?badge=latest)
 - [Understanding Neural Networks](https://dl.mlguidebook.com/) 
 
-## NLx
+## NLP
 - [Natural Language Processing](https://nlp.mlguidebook.com/en/latest/) [![Documentation Status](https://readthedocs.org/projects/nlpblog/badge/?version=latest)](https://nlp.mlguidebook.com/en/latest/?badge=latest)
 
 ## Python Packages
 - [Graph Package](https://graphpkg.readthedocs.io/) [![Documentation Status](https://readthedocs.org/projects/graphpkg/badge/?version=latest)](https://graphpkg.readthedocs.io/en/latest/?badge=latest)
 - [mightypy](https://mightypy.readthedocs.io/) [![Documentation Status](https://readthedocs.org/projects/mightypy/badge/?version=latest)](https://mightypy.readthedocs.io/en/latest/?badge=latest)
 
-## ML E2E Projects
-
-This project is not about the idea, it is about the implementation.
-  - [CatVsDog Data Analysis & Model Building](https://github.com/NishantBaheti/ConvolutionalNeuralNetwork)
-  - [CatvsDog API](https://github.com/NishantBaheti/CatVsDogModelApi) | [api link](https://catordogpython.herokuapp.com/)
-  - [CatvsDog APP UI](https://peaceful-hugle-bd2f1d.netlify.app/)
-  - [CatvsDog Docker Image](https://hub.docker.com/r/nishantbaheti/catvsdog-ml-model-api) [![Docker Image CI](https://github.com/NishantBaheti/CatVsDogModelApi/actions/workflows/docker-image.yml/badge.svg)](https://github.com/NishantBaheti/CatVsDogModelApi/actions/workflows/docker-image.yml)
 
 ## Additional Docs
 - [Tableau Vizzes](https://public.tableau.com/app/profile/nishant.baheti)
 - [Docker Exploration & Documentation](https://nishantbaheti.github.io/Docker-Exploration/) [![Documentation Status](https://readthedocs.org/projects/docker-exploration/badge/?version=latest)](https://docker-exploration.readthedocs.io/en/latest/?badge=latest)
 - [Learning Python](https://learningpython.readthedocs.io/)[![Documentation Status](https://readthedocs.org/projects/learningpython/badge/?version=latest)](https://learningpython.readthedocs.io/en/latest/?badge=latest)
+- [CatVsDog Data Analysis & Model Building](https://github.com/NishantBaheti/ConvolutionalNeuralNetwork)
+- [CatvsDog API](https://github.com/NishantBaheti/CatVsDogModelApi) | [api link](https://catordogpython.herokuapp.com/)
+- [CatvsDog APP UI](https://peaceful-hugle-bd2f1d.netlify.app/)
+- [CatvsDog Docker Image](https://hub.docker.com/r/nishantbaheti/catvsdog-ml-model-api) [![Docker Image CI](https://github.com/NishantBaheti/CatVsDogModelApi/actions/workflows/docker-image.yml/badge.svg)](https://github.com/NishantBaheti/CatVsDogModelApi/actions/workflows/docker-image.yml)
+
 
 ## Contacts
 - [Linkedin](https://www.linkedin.com/in/nishantbaheti/)
