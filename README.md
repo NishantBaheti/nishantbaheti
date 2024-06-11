@@ -41,7 +41,7 @@ Data Scientist | Machine Learning Engineer
 - [Audio Processing](https://mlguidebook.com/en/latest/MathExploration/AudioProcessing.html) -->
 
 ## Deep Learning [![Documentation Status](https://readthedocs.org/projects/understandnn/badge/?version=latest)](https://dl.mlguidebook.com/en/latest/?badge=latest)
-- [Understanding Neural Networks](https://dl.mlguidebook.com/) 
+- [Deep Learning Guide Book](https://dl.mlguidebook.com/) 
 
 ## NLP
 - [Natural Language Processing](https://nlp.mlguidebook.com/en/latest/) [![Documentation Status](https://readthedocs.org/projects/nlpblog/badge/?version=latest)](https://nlp.mlguidebook.com/en/latest/?badge=latest)
