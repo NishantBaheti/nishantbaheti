@@ -27,23 +27,24 @@ Data Scientist | Machine Learning Engineer
 - [Probabiliy Distributions](https://mlguidebook.com/en/latest/Probability/Distributions.html)
 - [Experiment & Testing](https://mlguidebook.com/en/latest/PracticalStatistics/Hypothesis.html)
 
-## Recommendation Systems [![Documentation Status](https://readthedocs.org/projects/recommendation-systems/badge/?version=latest)](https://reco.mlguidebook.com/en/latest/?badge=latest)
 
-- [Recommendation Systems Doc](https://reco.mlguidebook.com/)
+## [Deep Learning Guide Book](https://dl.mlguidebook.com/) [![Documentation Status](https://readthedocs.org/projects/understandnn/badge/?version=latest)](https://dl.mlguidebook.com/en/latest/?badge=latest)
+
+- [Neural Network Using Numpy](https://dl.mlguidebook.com/en/latest/notebooks/nn_from_scratch.html)
+- [Logistic Regression](https://dl.mlguidebook.com/en/latest/notebooks/logistic_regression_from_scratch.html)
+
+
+## [Recommendation Systems](https://reco.mlguidebook.com/) [![Documentation Status](https://readthedocs.org/projects/recommendation-systems/badge/?version=latest)](https://reco.mlguidebook.com/en/latest/?badge=latest)
+
+- [Alternating Least Squares](https://reco.mlguidebook.com/en/latest/notebooks/als.html)
 - [Collaborative Filtering Method](https://reco.mlguidebook.com/en/latest/notebooks/cf_item_item.html)
 - [Basic Content Based](https://reco.mlguidebook.com/en/latest/notebooks/basic_content_based.html)
-- [Alternating Least Squares](https://reco.mlguidebook.com/en/latest/notebooks/als.html)
 
 <!-- ## Data Processing
 - [Convolution](https://mlguidebook.com/en/latest/MathExploration/Convolution.html)
 - [Feature Scaling Techniques](https://mlguidebook.com/en/latest/DataPreprocessing/techniques.html)
 - [Fourier Transform & its applications](https://mlguidebook.com/en/latest/MathExploration/Fourier.html)
 - [Audio Processing](https://mlguidebook.com/en/latest/MathExploration/AudioProcessing.html) -->
-
-## Deep Learning [![Documentation Status](https://readthedocs.org/projects/understandnn/badge/?version=latest)](https://dl.mlguidebook.com/en/latest/?badge=latest)
-- [Deep Learning Guide Book](https://dl.mlguidebook.com/)
-- [Neural Network Using Numpy](https://dl.mlguidebook.com/en/latest/notebooks/nn_from_scratch.html)
-- [Logistic Regression](https://dl.mlguidebook.com/en/latest/notebooks/logistic_regression_from_scratch.html)
 
 ## NLP
 - [Natural Language Processing](https://nlp.mlguidebook.com/en/latest/) [![Documentation Status](https://readthedocs.org/projects/nlpblog/badge/?version=latest)](https://nlp.mlguidebook.com/en/latest/?badge=latest)
@@ -54,14 +55,8 @@ Data Scientist | Machine Learning Engineer
 
 
 ## Additional Docs
-- [Tableau Vizzes](https://public.tableau.com/app/profile/nishant.baheti)
 - [Docker Exploration & Documentation](https://nishantbaheti.github.io/Docker-Exploration/) [![Documentation Status](https://readthedocs.org/projects/docker-exploration/badge/?version=latest)](https://docker-exploration.readthedocs.io/en/latest/?badge=latest)
 - [Learning Python](https://learningpython.readthedocs.io/)[![Documentation Status](https://readthedocs.org/projects/learningpython/badge/?version=latest)](https://learningpython.readthedocs.io/en/latest/?badge=latest)
-- [CatVsDog Data Analysis & Model Building](https://github.com/NishantBaheti/ConvolutionalNeuralNetwork)
-- [CatvsDog API](https://github.com/NishantBaheti/CatVsDogModelApi) | [api link](https://catordogpython.herokuapp.com/)
-- [CatvsDog APP UI](https://peaceful-hugle-bd2f1d.netlify.app/)
-- [CatvsDog Docker Image](https://hub.docker.com/r/nishantbaheti/catvsdog-ml-model-api) [![Docker Image CI](https://github.com/NishantBaheti/CatVsDogModelApi/actions/workflows/docker-image.yml/badge.svg)](https://github.com/NishantBaheti/CatVsDogModelApi/actions/workflows/docker-image.yml)
-
 
 ## Contacts
 - [Linkedin](https://www.linkedin.com/in/nishantbaheti/)
