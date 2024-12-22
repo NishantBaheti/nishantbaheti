@@ -22,10 +22,6 @@ Data Scientist | Machine Learning Engineer
 - [Boosting Methods](https://mlguidebook.com/en/latest/EnsembleMethods/ExploreBoosting.html)
 - [SVD & its applications](https://mlguidebook.com/en/latest/MathExploration/SingularValueDecomposition.html)
 - [Support Vector Machine](https://mlguidebook.com/en/latest/SupportVectorMachine/Explore.html)
-- [Statistics](https://mlguidebook.com/en/latest/PracticalStatistics/Statistics.html)
-- [Statistical Sampling](https://mlguidebook.com/en/latest/PracticalStatistics/Sampling.html)
-- [Probabiliy Distributions](https://mlguidebook.com/en/latest/Probability/Distributions.html)
-- [Experiment & Testing](https://mlguidebook.com/en/latest/PracticalStatistics/Hypothesis.html)
 
 
 ## [Deep Learning Guide Book](https://dl.mlguidebook.com/) [![Documentation Status](https://readthedocs.org/projects/understandnn/badge/?version=latest)](https://dl.mlguidebook.com/en/latest/?badge=latest)
@@ -56,7 +52,7 @@ Data Scientist | Machine Learning Engineer
 
 ## Additional Docs
 - [Docker Exploration & Documentation](https://nishantbaheti.github.io/Docker-Exploration/) [![Documentation Status](https://readthedocs.org/projects/docker-exploration/badge/?version=latest)](https://docker-exploration.readthedocs.io/en/latest/?badge=latest)
-- [Learning Python](https://learningpython.readthedocs.io/)[![Documentation Status](https://readthedocs.org/projects/learningpython/badge/?version=latest)](https://learningpython.readthedocs.io/en/latest/?badge=latest)
+- [Python Guide Book](https://python.mlguidebook.com/)[![Documentation Status](https://readthedocs.org/projects/learningpython/badge/?version=latest)](https://learningpython.readthedocs.io/en/latest/?badge=latest)
 
 ## Contacts
 - [Linkedin](https://www.linkedin.com/in/nishantbaheti/)
