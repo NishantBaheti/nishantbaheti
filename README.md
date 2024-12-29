@@ -26,8 +26,9 @@ Data Scientist | Machine Learning Engineer
 
 ## [Deep Learning Guide Book](https://dl.mlguidebook.com/) [![Documentation Status](https://readthedocs.org/projects/understandnn/badge/?version=latest)](https://dl.mlguidebook.com/en/latest/?badge=latest)
 
-- [Neural Network Using Numpy](https://dl.mlguidebook.com/en/latest/notebooks/nn_from_scratch.html)
-- [Logistic Regression](https://dl.mlguidebook.com/en/latest/notebooks/logistic_regression_from_scratch.html)
+- [Transformer From Scratch](https://dl.mlguidebook.com/en/latest/notebooks/transformers/explore.html)
+- [Neural Network From Scratch](https://dl.mlguidebook.com/en/latest/notebooks/nn_from_scratch.html)
+- [Logistic Regression From Scratch](https://dl.mlguidebook.com/en/latest/notebooks/logistic_regression_from_scratch.html)
 
 
 ## [Recommendation Systems](https://reco.mlguidebook.com/) [![Documentation Status](https://readthedocs.org/projects/recommendation-systems/badge/?version=latest)](https://reco.mlguidebook.com/en/latest/?badge=latest)
