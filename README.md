@@ -11,9 +11,7 @@ Data Scientist | Machine Learning Engineer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantbaheti&layout=compact)](https://github.com/nishantbaheti) 
 
 
-## [ML Guide Book](https://mlguidebook.com) [![Documentation Status](https://readthedocs.org/projects/machinelearningexploration/badge/?version=latest)](https://machinelearningexploration.readthedocs.io/en/latest/?badge=latest)
-
-<iframe src="https://topmate.io/nishantbaheti/474284"> Understand Any Topic From Me For Free</iframe>
+## [ML Guide Book](https://mlguidebook.com) [![Documentation Status](https://readthedocs.org/projects/machinelearningexploration/badge/?version=latest)](https://machinelearningexploration.readthedocs.io/en/latest/?badge=latest) [Understand Any Topic For Free](https://topmate.io/nishantbaheti/474284)
 
 - [Perceptron](https://mlguidebook.com/en/latest/perceptron/explore.html)
 - [Nearest Neighbors](https://mlguidebook.com/en/latest/NearestNeighbors/explore.html)
